@@ -1,0 +1,13 @@
+{
+  "id": "com.ejw3ly.subtitle-ar",
+  "version": "1.0.1",
+  "name": "Subtitle AR Mobile",
+  "description": "ترجمة عربية مصلحة بدون تقطيع - مخصص لستريميو هاتف",
+  "resources": ["subtitle"],
+  "types": ["movie", "series"],
+  "idPrefixes": ["tt"],
+  "catalogs": [],
+  "behaviorHints": {
+    "configurationRequired": false
+  }
+}
