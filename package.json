@@ -9,7 +9,7 @@
   "dependencies": {
     "stremio-addon-sdk": "^1.8.2",
     "axios": "^1.7.2",
-    "arabic-reshaper": "^3.0.0",
+    
     "bidi-js": "^1.0.3"
   }
 }
