@@ -1,0 +1,15 @@
+{
+  "name": "subtitle-ar",
+  "version": "1.0.1",
+  "description": "Stremio Arabic Subtitle Addon - Mobile Fixed",
+  "main": "addon.js",
+  "scripts": {
+    "start": "node addon.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.8.2",
+    "axios": "^1.7.2",
+    "arabic-reshaper": "^3.0.0",
+    "bidi-js": "^1.0.3"
+  }
+}
